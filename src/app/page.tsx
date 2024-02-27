@@ -15,7 +15,12 @@ export default function Index() {
 
   return (
     <main>
-      <Video src="https://res.cloudinary.com/dqzj6idvg/video/upload/v1709060391/psblog/cgirone_720_fbrtjy.mp4"/>
+
+       <video controls autoPlay>
+        <source src="https://res.cloudinary.com/dqzj6idvg/video/upload/v1709060391/psblog/cgirone_720_fbrtjy.mp4" type="video/mp4"></source>
+        Your browser does not support the video tag.
+      </video>
+
       <Container>
         <Intro />
         <HeroPost
