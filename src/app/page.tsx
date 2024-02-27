@@ -15,7 +15,7 @@ export default function Index() {
 
   return (
     <main>
-      <video src='https://fqz5ql6n25lmhdwa.public.blob.vercel-storage.com/psblog/cgirone_high_265-P0G2DYpYrleSsqCMRwdPcQUkbSJ9cD.mp4' />;
+      <Video src="https://res.cloudinary.com/dqzj6idvg/video/upload/v1709060391/psblog/cgirone_720_fbrtjy.mp4"/>
       <Container>
         <Intro />
         <HeroPost
