@@ -16,7 +16,7 @@ export default function Index() {
   return (
     <main>
 
-        <Video src="https://res.cloudinary.com/dqzj6idvg/video/upload/v1709060391/psblog/cgirone_720_fbrtjy.mp4"/>
+        <Video src="https://res.cloudinary.com/dqzj6idvg/video/upload/q_91/v1709060391/psblog/cgirone_720_fbrtjy.mp4"/>
 
        
 
