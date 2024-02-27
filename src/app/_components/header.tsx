@@ -7,7 +7,7 @@ const Header = () => {
         Pulito Sviluppo
       </Link>
       <video width="320" height="240" loop autoPlay>
-        <source src="https://fqz5ql6n25lmhdwa.public.blob.vercel-storage.com/psblog/cgirone_high_265-P0G2DYpYrleSsqCMRwdPcQUkbSJ9cD.mp4" type="video/mp4">
+        <source src="https://res.cloudinary.com/dqzj6idvg/video/upload/v1709060391/psblog/cgirone_720_fbrtjy.mp4" type="video/mp4">
 
         </source>
 
